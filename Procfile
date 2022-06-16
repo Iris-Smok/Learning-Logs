@@ -1,1 +1,1 @@
-web: gunicorn codestar.wsgi
+web: gunicorn learning_logs.wsgi
